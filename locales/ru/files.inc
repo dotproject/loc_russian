@@ -1,0 +1,22 @@
+##
+## DO NOT MODIFY THIS FILE BY HAND!
+##
+"Date"=>"Дата",
+"Edit File"=>"Радактировать Файл",
+"File Management"=>"Управление Файлами",
+"File Name"=>"Имя Файла",
+"File deleted"=>"Файл удалён",
+"File inserted"=>"Файл добавлен",
+"File updated"=>"Файл обновлён",
+"New File"=>"Новый Файл",
+"Size"=>"Размер",
+"Type"=>"Тип",
+"Upload File"=>"Загрузить Файл в удаленный компьютер",
+"Uploaded By"=>"кем загружен",
+"Version"=>"Версия",
+"add new file"=>"добавить новый файл",
+"delete file"=>"стереть файл",
+"download"=>"загрузить",
+"fileIdError"=>"Передача в функцию ошибочного дескриптора файла (An invalid file handle was passed to the function)",
+"files list"=>"список файлов",
+"filesDelete"=>"Вы уверены в том, что хотите удалить этот Файл?",
